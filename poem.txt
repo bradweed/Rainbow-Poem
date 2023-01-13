@@ -9,6 +9,7 @@ Unicorn
 Red
 Yellow
 Indigo
+Teal
 The colors of a rainbow
 And the unicorn
 
